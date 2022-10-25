@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.AssemblyInfo.cs
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\csharp\desafiocurso\bin\Debug\net6.0\desafiocurso.exe
+C:\Users\disrct\Desktop\csharp\desafiocurso\bin\Debug\net6.0\desafiocurso.deps.json
+C:\Users\disrct\Desktop\csharp\desafiocurso\bin\Debug\net6.0\desafiocurso.runtimeconfig.json
+C:\Users\disrct\Desktop\csharp\desafiocurso\bin\Debug\net6.0\desafiocurso.dll
+C:\Users\disrct\Desktop\csharp\desafiocurso\bin\Debug\net6.0\desafiocurso.pdb
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.dll
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\refint\desafiocurso.dll
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.pdb
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\desafiocurso.genruntimeconfig.cache
+C:\Users\disrct\Desktop\csharp\desafiocurso\obj\Debug\net6.0\ref\desafiocurso.dll
